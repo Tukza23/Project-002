@@ -1,0 +1,38 @@
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.exe
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.pdb
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.xml
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Login.resources
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Resources.resources
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.vbproj.GenerateResource.Cache
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.exe
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.xml
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.pdb
+C:\Users\Computer\AppData\Local\Temporary Projects\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Admin.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.exe.config
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.exe
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.pdb
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.vbprojResolveAssemblyReference.cache
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Admin.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Customers.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Login.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Payments.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Products.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Selection.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Stocks.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Transaction.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.Resources.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.ReportViewer.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.vbproj.GenerateResource.Cache
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.exe
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.pdb
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.ReportSelection.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.PaymentTrailSearch.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.TransactionSelection.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.TransactionSearch.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI_Sales_Management_System.TransactionSummarySearch.resources
+C:\Users\Computer\Downloads\RUSI Sales Management System\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.exe.config
+C:\Users\Computer\Downloads\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.exe
+C:\Users\Computer\Downloads\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.xml
+C:\Users\Computer\Downloads\RUSI Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.pdb

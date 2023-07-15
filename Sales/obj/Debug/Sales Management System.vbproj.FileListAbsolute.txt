@@ -1,0 +1,4 @@
+C:\Users\Computer\Downloads\Sales Management System\RUSI Sales Management System\bin\Debug\RUSI Sales Management System.exe.config
+C:\Users\Computer\Downloads\Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.exe
+C:\Users\Computer\Downloads\Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.xml
+C:\Users\Computer\Downloads\Sales Management System\RUSI Sales Management System\obj\Debug\RUSI Sales Management System.pdb

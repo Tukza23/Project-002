@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RUSISalesManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:RUSI_Sales_Management_System.rusiDataSet.transactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.customerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.productsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymenttrailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.transactDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.transactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.customerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.productsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymenttrailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.transactRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.transactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.customerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.productsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.paymenttrailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet.transactRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.rusiDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources._3d_effect">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.back">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.close_no_window_log_out_logout_exit_sign_out_stop_quit_cancel_program_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.Graphicloads_100_Flat_2_Inside_logout">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.icon_blk_cash_hand">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.individual">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.line_chart_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.motorcycle_BW_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.payments">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.rusi_logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.Sheets_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.StockPlusIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.summary">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.trail">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:RUSI_Sales_Management_System.My.Resources.Resources.Users_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:RUSI_Sales_Management_System.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
